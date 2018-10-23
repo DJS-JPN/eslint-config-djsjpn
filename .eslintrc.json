@@ -25,6 +25,7 @@
       "error",
       "never"
     ],
+    "semi-spacing": "error",
     "callback-return": "error",
     "key-spacing": "error",
     "keyword-spacing": [
@@ -61,7 +62,21 @@
       }
     ],
     "no-empty": "error",
-    "one-var": "error",
+    "no-duplicate-imports": "error",
+    "no-sync": "error",
+    "no-unused-vars": "error",
+    "no-duplicate-case": "error",
+    "no-else-return": "error",
+    "no-eq-null": "error",
+    "no-return-await": "error",
+    "no-void": "error",
+    "no-useless-return": "error",
+    "no-multiple-empty-lines": "error",
+    "no-mixed-spaces-and-tabs": "error",
+    "no-mixed-operators": "error",
+    "require-jsdoc": "error",
+    "eqeqeq": "error",
+    "yoda": "error",
     "unicode-bom": "error"
   }
 }
