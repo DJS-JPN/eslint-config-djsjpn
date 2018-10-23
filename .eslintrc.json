@@ -50,8 +50,6 @@
       }
     ],
     "no-var": "error",
-    "no-extra-semi": "error",
-    "no-extra-parens": "error",
     "no-console": [
       "error",
       {
@@ -61,6 +59,9 @@
           "error"
         ]
       }
-    ]
+    ],
+    "no-empty": "error",
+    "one-var": "error",
+    "unicode-bom": "error"
   }
 }
